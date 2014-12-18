@@ -1,7 +1,7 @@
 #!/bin/bash
 
-site="http://54.76.107.44/service.php"
-delete="http://54.76.107.44/serv_ack.php?service=delete"
+site="http://externalWebsite/service.php"
+delete="http://externalWebsite/serv_ack.php?service=delete"
 
 while true; do
 
