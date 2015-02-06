@@ -1,7 +1,7 @@
 Authors
 
-Chris Vaughan chris_vaughan@bmc.com
-Matt Hausmann matt_hausmann@bmc.com
+Chris Vaughan 
+Matt Hausmann 
 
 Installation Instructions
 
